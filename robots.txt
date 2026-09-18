@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sftdtmr.github.io/sitemap.xml
